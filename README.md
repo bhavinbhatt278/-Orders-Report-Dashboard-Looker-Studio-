@@ -12,22 +12,21 @@ The goal of this dashboard is to analyze sales performance and visualize key bus
 
 * Breakdown of orders by Region, Category, Segment, and City using pie and bar charts.
 
-Trend Analysis:
+## Trend Analysis:
 
-Yearly and Monthly trends showcasing how orders have changed over time.
+* Yearly and Monthly trends showcasing how orders have changed over time.
 
-Interactive Filters:
+## Interactive Filters:
 
-Users can dynamically filter the dashboard by Region, Segment, Category, and Ship Mode to customize the view.
+* Users can dynamically filter the dashboard by Region, Segment, Category, and Ship Mode to customize the view.
 
-Top Performers:
+## Top Performers:
 
-Highlights top States, Customers, and Cities based on the quantity of orders.
+* Highlights top States, Customers, and Cities based on the quantity of orders.
 
-Purpose
-This dashboard provides business teams and decision-makers with real-time insights into sales data, helping them identify trends, spot opportunities, and optimize performance.
+## Purpose
+* This dashboard provides business teams and decision-makers with real-time insights into sales data, helping them identify trends, spot opportunities, and optimize performance.
 
-Tools & Technologies
-Looker Studio (Google Data Studio) — for dashboard creation and visualization.
-
-Excel — for initial data cleaning and preparation.
+## Tools & Technologies
+* Looker Studio (Google Data Studio) — for dashboard creation and visualization.
+* Excel — for initial data cleaning and preparation.
