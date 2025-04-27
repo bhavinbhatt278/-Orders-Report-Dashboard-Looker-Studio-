@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de09a87a-fb6e-479a-98b0-1b13b0d267c9)# Orders-Report-Dashboard-Looker-Studio-
+![image](https://github.com/user-attachments/assets/de09a87a-fb6e-479a-98b0-1b13b0d267c9)
 # 📊 Orders Report Dashboard (Looker Studio)
 
 ## Overview
