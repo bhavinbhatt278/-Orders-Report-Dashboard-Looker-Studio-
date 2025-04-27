@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/de09a87a-fb6e-479a-98b0-1b13b0d267c9)
 # 📊 Orders Report Dashboard (Looker Studio)
 
+## Live Dashboard Link 
+https://lookerstudio.google.com/reporting/5b82d33b-f446-45d9-a8c9-fc221a1231da
 ## Overview
 This project demonstrates a dynamic and interactive dashboard built in Looker Studio using order data from an Excel file (Data Source.xlsx).
 The goal of this dashboard is to analyze sales performance and visualize key business metrics in a clear, actionable format.
