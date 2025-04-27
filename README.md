@@ -1,24 +1,33 @@
 ![image](https://github.com/user-attachments/assets/de09a87a-fb6e-479a-98b0-1b13b0d267c9)# Orders-Report-Dashboard-Looker-Studio-
-E-Commerce Orders Dashboard using Looker Studio
+# 📊 Orders Report Dashboard (Looker Studio)
 
-This project showcases an interactive dashboard built using Looker Studio.
-The dashboard visualizes order data from an Excel file (Data Source.xlsx) and provides key business insights, including:
+## Overview
+This project demonstrates a dynamic and interactive dashboard built in Looker Studio using order data from an Excel file (Data Source.xlsx).
+The goal of this dashboard is to analyze sales performance and visualize key business metrics in a clear, actionable format.
 
-Total number of orders, customers, states, and segments
+## Key Features
+* KPIs at a glance: Total Orders, Customers, States covered, and Segments.
 
-Orders breakdown by Region, Category, Segment, and City
+## Order Analysis:
 
-Trend analysis of orders by Year and Month
+* Breakdown of orders by Region, Category, Segment, and City using pie and bar charts.
 
-Filters for dynamic exploration: Region, Segment, Category, and Ship Mode
+Trend Analysis:
 
-Highlighted top states, customers, and cities by quantity ordered
+Yearly and Monthly trends showcasing how orders have changed over time.
 
-Objective:
-To create a clear, engaging, and actionable business intelligence report for better decision-making.
+Interactive Filters:
 
-Tools Used:
+Users can dynamically filter the dashboard by Region, Segment, Category, and Ship Mode to customize the view.
 
-Looker Studio (Google Data Studio)
+Top Performers:
 
-Excel (Data Cleaning & Preparation)
+Highlights top States, Customers, and Cities based on the quantity of orders.
+
+Purpose
+This dashboard provides business teams and decision-makers with real-time insights into sales data, helping them identify trends, spot opportunities, and optimize performance.
+
+Tools & Technologies
+Looker Studio (Google Data Studio) — for dashboard creation and visualization.
+
+Excel — for initial data cleaning and preparation.
